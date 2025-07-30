@@ -17,3 +17,6 @@ This project builds a fraud detection model using Python, with Random Forest and
 ## Installation\
 ```bash\
 pip install -r requirements.txt}
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+## Notebook
+[View Notebook](https://nbviewer.jupyter.org/github/your-username/fraud-detection/blob/main/notebooks/fraud_detection.ipynb)
