@@ -5,6 +5,10 @@
 \paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+## Notebook
+[View Notebook](https://nbviewer.jupyter.org/github/Ayhormie/fraud-detection-benford/blob/main/notebooks/fraud_detection.ipynb)
+
 \f0\fs24 \cf0 # Fraud Detection Using Machine Learning\
 \
 This project builds a fraud detection model using Python, with Random Forest and XGBoost. It handles imbalanced data using ADASYN and optimizes for high recall to detect fraudulent transactions.\
@@ -17,6 +21,4 @@ This project builds a fraud detection model using Python, with Random Forest and
 ## Installation\
 ```bash\
 pip install -r requirements.txt}
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
-## Notebook
-[View Notebook](https://nbviewer.jupyter.org/github/your-username/fraud-detection/blob/main/notebooks/fraud_detection.ipynb)
+
